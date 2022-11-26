@@ -1,0 +1,316 @@
+/*******************************
+Seletor universal 
+* {
+	border: 1px solid red;
+}*/
+
+
+/*******************************
+Seletor de texto 
+h1 {
+	color: green;
+}*/
+
+/*******************************
+Seletor de classe 
+.verde {
+	color: green;
+}
+
+p.verde {
+	color: green;
+}
+*/
+
+/*******************************
+Seletor de ID 
+#cabecalho {
+	border: 1px solid blue;
+}*/
+
+
+/*******************************
+Seletor de filho 
+li>a {
+	color: red;
+	text-decoration: none;
+}
+*/
+
+/*******************************
+Seletor de descendente 
+div a {
+	color: green;
+}
+*/
+
+/*******************************
+Seletor de irmão adjacente 
+h1+p{
+	color: red;
+} */
+
+/*******************************
+Seletor de irmão geral 
+h1~p {
+	color: pink;
+}*/
+
+
+
+
+
+
+
+
+
+/*******************************
+Herança e especificidade */
+
+/* Seletores iguais, exceção important
+#pagina p {
+	color: red !important;
+}
+
+#pagina p {
+	color: blue;
+}*/
+
+/* Se um seletor for mais específico que outro
+a regra mais específica será aplicada 
+(terá precedência sobre regras mais gerais)
+
+* {
+	color: red;
+}
+
+h2 {
+	color: blue;
+}
+
+h2.verde {
+	color: green;
+}
+
+h2#amarelo {
+	color: yellow;
+}
+*/
+
+
+
+
+/*******************************
+Barra de navegação vertical */
+/*
+ul {
+	
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	padding: 5px 20px;
+	background: url(../imagens/seta.png) no-repeat left center;
+}
+
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+ul a {
+	border: 1px solid red;
+	width: 200px;
+	height: 40px;
+	display: block;
+	color: #000;
+	text-decoration: none;
+	text-indent: 40px;
+	line-height: 40px;
+	background: #f7b600 url(../imagens/menu.png) no-repeat left bottom;
+}
+
+a:hover {
+	background-position: right bottom;
+	background-color: #f99200;
+	color: #fff;
+}
+
+#home #navegacao .home a,
+#sobre #navegacao .sobre a,
+#servicos #navegacao .servicos a {
+	background-position: right bottom;
+	background-color: #f99200;
+	color: #fff;
+}
+
+*/
+
+/*******************************
+Barra de navegação horizontal
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 720px;
+	background: #159cb0 url(../imagens/fundo-horizontal.png) repeat-x;
+	float: left;
+}
+
+ul li {
+	float: left;
+}
+
+ul a {
+	display: block;
+	padding: 0 2em;
+	line-height: 2.2em;
+	text-decoration: none;
+	color: #fff;
+	background: url(../imagens/divisor.png) repeat-y left top;
+}
+
+ul .primeiro a {
+	background: none;
+}
+
+ul a:hover {
+	color: #085662;
+	background: #44cade;
+}
+
+#home #navegacao .home a,
+#sobre #navegacao .sobre a,
+#servicos #navegacao .servicos a {
+	color: #085662;
+	background: #44cade;
+}
+
+ */
+
+/*******************************
+Barra de navegação com abas 
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 720px;
+}
+
+ul li {
+	float: left;
+	background: url(../imagens/aba-direita.png) no-repeat top right;
+}
+
+li a {
+	display: block;
+	padding: 0 2em;
+	line-height: 3em;
+	text-decoration: none;
+	background: url(../imagens/aba-esquerda.png) no-repeat top left;
+	color: #fff;
+}
+
+ul a:hover {
+	color: #894a1f;
+}
+
+ul #atual {
+	background: url(../imagens/aba-direita-atual.png) no-repeat top right;
+}
+
+ul #atual a {
+	background: url(../imagens/aba-esquerda-atual.png) no-repeat top left;
+}
+*/
+
+
+
+/*******************************
+Layouts */
+
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #f2f2f2;
+}
+
+#container {
+	width: 720px;
+	margin: 0 auto;
+	background: #fff;
+}
+
+#marca {
+	height: 100px;
+	background: #9E9E9E;
+	text-align: center;
+	line-height: 100px;
+}
+
+#conteudo {
+	width: 520px;
+	float: right;
+}
+
+#conteudo-principal {
+	width: 320px;
+	float: left;
+}
+
+#conteudo-secundario {
+	width: 180px;
+	float: right;
+	background: #d1d1d1;
+}
+
+#conteudo-secundario h1, 
+#conteudo-secundario h2,
+#conteudo-secundario h3,
+#conteudo-secundario p {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#navegacao {
+	width: 180px;
+	float: left;
+	padding-top: 20px;
+    padding-bottom: 20px;
+    background: #d1d1d1;
+}
+
+#navegacao ul {
+	list-style: none;
+}
+
+#navegacao li a {
+	text-decoration: none;
+}
+
+#rodape {
+	clear: both;
+	background: #c4c4c4;
+	padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
