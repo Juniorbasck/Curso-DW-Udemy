@@ -50,8 +50,24 @@
 			document.write(data1.getTime())
 			document.write('<hr />')
 			document.write(data2.getTime())
-			//1 de janeiro de 1970 
 
+			//1 de janeiro de 1970
+
+			document.write('<br /><br /><hr />')
+			///encontrar a qtde de milissegundos entre data1 e data2
+			var milissegundos_entre_datas = Math.abs(data1.getTime() - data2.getTime())
+			document.write(milissegundos_entre_datas);
+
+			// 1 ida tem 24, cada hora tem 60 minutos,
+			//cada minuto tem 60 segudos e
+			//cada segundo tem 1000 milissegundos
+			//então quantos milissegundos exitem em um dia? 
+			var milissegundos_por_dia = (1*24*60*60*1000) 
+			document.write('<br /><br /><hr />')
+			document.write(' 1 dia tem: ' + milissegundos_por_dia + ' milissegundos')
+			document.write('<br /><br /><hr />')
+
+			document.write('A diferença entre data1 e data2 é de ' + Math.ceil(milissegundos_entre_datas / milissegundos_por_dia) + 'dias(s)')
 		</script>
 	</head>
 	<body>

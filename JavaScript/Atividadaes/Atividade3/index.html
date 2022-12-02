@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Atividade</title>
+		<script>
+			/*
+			var num1 = prompt('Digite um numero: ')
+			var opera = prompt('Digite a operação desejada: ')
+			var num2 = prompt('Digite outro numero: ')
+
+			function cal(num1, num2, opera){
+
+				num1 = parseFloat(num1);
+				num2 = parseFloat(num2);
+
+				var resultado = 0;
+
+				if(opera == 'soma'){
+					resultado = num1 + num2
+				}else{
+					resultado = num1 - num2
+				}
+
+				return resultado;
+			}
+
+			document.write('O resultado é: ' + cal(num1, num1, opera));
+			*/
+			var num1 = prompt('Digite um numero: ')
+			var opera = prompt('Digite a operação desejada: ')
+			var num2 = prompt('Digite outro numero: ')
+
+			resultado = 0;
+
+			num1 = parseFloat(num1);
+			num2 = parseFloat(num2);
+
+			if(opera == 'soma'){
+				soma(num1, num2)
+			}else{
+				subtracao(num1, num2)
+			}
+
+
+			function soma(num1, num2){
+				resultado = num1 + num2;
+				return resultado;
+			}
+
+			function subtracao(num1, num2){
+				resultado = num1 - num2;
+				return resultado;
+			}
+
+			document.write('O resultado é: ' + resultado);
+
+		</script>
+	</head>
+	<body>
+
+
+
+
+	</body>
+</html>
