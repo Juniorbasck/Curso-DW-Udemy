@@ -10,16 +10,34 @@ function adicionarDados(){
  
  	var aux = document.getElementById('nome').value
 
- 	if(aux =''){
- 		Alert("Insira um valor")
- 	}else{
- 		Alert("tudo certo")
- 	}
+ 	//var valor = objetos.indexOf(aux);
 
+ 	if(aux != ''){
+ 	
+ 		if(objetos.indexOf(aux) !== -1){
+
+ 			alert("Objeto já add")
+
+ 		}else{
+
+ 			objetos.push(aux)
+ 			console.log(objetos)
+
+ 			document.getElementById('nome').value = '';
+ 		}
+
+ 	}else{
+
+ 	alert("Insira algo parça");
+
+ 	}
 }
 
 
 function ordenarDados(){
 
+	console.log(objetos.sort())
 }
-	
+
+
+
