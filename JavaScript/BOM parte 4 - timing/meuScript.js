@@ -9,4 +9,4 @@ setInterval(function(){
 	if(i === 0){
 		window.location.reload()
 	}
-	}, 1000)
+	}, 1000
