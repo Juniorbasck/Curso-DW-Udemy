@@ -10,9 +10,22 @@
 	</head> 
 	<body onresize="ajustaTamanho()">
 
+
+		<div class="painel">
+			<div class="vidas">
+				<img src="imagens/coracao_vazio.png"/>
+				<img src="imagens/coracao_cheio.png"/>
+				<img src="imagens/coracao_cheio.png"/>
+			</div>
+			<div class="tempo">Tempo restante:  ?</div>
+		</div>
 		
 		<script>
-			posicaoMosquisto()
+			setInterval(function(){
+
+				posicaoMosquisto()
+
+			}, 1000)
 		</script>
 	</body>
 </html>
