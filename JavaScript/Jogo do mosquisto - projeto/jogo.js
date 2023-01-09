@@ -8,26 +8,25 @@ function ajustaTamanho(){
 	altura = window.innerHeight 
 	largura = window.innerWidth 
 
-	console.log(largura, altura);
-}
+	console.log(largura, altura)
+}	 
 
 ajustaTamanho()
 
-function posicaoRandomica(){
+function posicaoMosquisto(){
 
 	var posicaoX = Math.floor(Math.random() * largura)
 	var posicaoY = Math.floor(Math.random() * altura)
 
-	console.log(posicaoX, posicaoY) 
+	console.log(posicaoX, posicaoY);
 
-
-	//criar o elementos html a imagem
+	//criar o elemento HTML 
 	var mosquito = document.createElement('img')
-
-	mosquito.scr = 'imagens/coracao_cheio.png'	
-
-	mosquito.className = 'mosquito1'
+	mosquito.src = "imagens/mosca.png"
+	mosquito.className = 'mosquisto1'
+	
 
 	document.body.appendChild(mosquito)
 
 }
+ 
