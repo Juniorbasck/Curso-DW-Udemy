@@ -3,6 +3,7 @@
 var altura = 0
 var largura = 0
 var vidas = 1
+var tempo = 5
 
 
 function ajustaTamanho(){
@@ -14,6 +15,18 @@ function ajustaTamanho(){
 }	 
 
 ajustaTamanho()
+
+var cronometro = setInterval(function() {
+
+	tempo -= 1
+	if( tempo < 0){
+		clearInterval(cronometro)
+		clearInterval(criaMosca)
+		window.location.href = 'vitoria.html'
+	}else{
+		document.getElementById('cronometro').innerHTML = tempo
+		}
+	}, 1000)
 
 function posicaoMosquisto(){
 
@@ -86,3 +99,5 @@ function ladoAleatorio(){
 			return 'ladoB'
 	}
 }
+
+
