@@ -1,7 +1,8 @@
-.corFundo{
-	background-color: green;
+.turnBlock{
+	display: block;
 }
 
-.corFundo2{
-	background-color: blueviolet;
+#home{
+	background: #ffc107;
+	color: white;
 }
