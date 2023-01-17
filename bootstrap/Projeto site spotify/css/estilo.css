@@ -40,6 +40,11 @@ html, body, #home{
 	overflow-x: hidden;
 }
 
+
+
+.carousel-control-next, .carousel-control-prev {
+		width: 5%;
+}
 #home{
 	/*border: 1px solid red;*/
 }
