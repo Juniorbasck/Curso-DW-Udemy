@@ -40,7 +40,7 @@ html, body, #home{
 }
 
 #home{
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 }
 
 .capa{
@@ -75,6 +75,16 @@ html, body, #home{
 	color: black;
 }
 
+
+#servicos{
+	background: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.albuns{
+ 	padding: 10px 0px;
+}
 
 h1{
 	font-weight: 900;
