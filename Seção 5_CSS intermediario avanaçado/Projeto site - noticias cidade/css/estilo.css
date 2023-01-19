@@ -55,3 +55,14 @@ ul{
 #topo ul .primeiro a{
 	background: none;
 }
+
+#topo ul a:hover{
+	color: #69001d;
+
+}
+
+body.home #navegacao a#home{
+	color: black;
+	background: yellow;
+	cursor: text;
+}
