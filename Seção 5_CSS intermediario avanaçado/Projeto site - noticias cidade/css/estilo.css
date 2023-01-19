@@ -10,13 +10,12 @@ body{
 #container{
 	width: 750px;
 	margin: 0px auto;
-	border: 1px solid red;
 }
 
 #topo{
 	height: 150px;
 	background: url(../imagens/detalhe-topo.png) no-repeat right top;
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	padding-top: 20px;
 }
 
@@ -25,4 +24,34 @@ body{
 	height: 66px;
 	background: url(../imagens/logo.png) no-repeat center;
 	text-indent: -3000px;
+}
+
+ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+#topo ul{
+	margin-top: 30px;
+	background: #b10333;
+	float: left;
+}
+
+#topo ul li{
+	float: left;
+}
+
+#topo ul li a{
+	font-size: 1px
+	display: black;
+	padding: 1px 12px;
+	line-height: 2.1em;
+	text-decoration: none;
+	color: #fff;
+	background: url(../imagens/divisor.png) no-repeat left center;
+}
+
+#topo ul .primeiro a{
+	background: none;
 }
