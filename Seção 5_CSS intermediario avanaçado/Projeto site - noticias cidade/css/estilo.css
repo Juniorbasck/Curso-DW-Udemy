@@ -221,3 +221,26 @@ input.submit{
 	margin-top: 5px;
 }
 
+
+/*formatar imagens*/
+img.imagem-principal{
+	width: 99%;
+	border: 3px solid #dfdfdf; 
+}
+
+h3{
+	text-transform: uppercase;
+	font-size: 0.8em;
+	padding: 3px;
+	margin-bottom: 10px;
+}
+
+.destaque h3{
+	background: #b10333;
+	color: #fff;
+	margin-bottom: 10px;
+}
+
+.entrevista h3{
+	background: #de003e;
+}
