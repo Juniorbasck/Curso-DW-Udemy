@@ -33,35 +33,97 @@
 
 
 
-			.caixa1, .caixa2{
-				border: 1px solid red;
+			.caixa1, .caixa2, .caixa3, .caixa4{
+				position: relative;
 				height: 100%;
+				/*opacity: 0.7;*/
+				background-repeat: no-repeat;
+				background-size: cover;
+				background-position: center;
+				
 			}
 
 			.caixa1{
 				background: url(imagens/imagem1.jpg);
-			}
+				background-attachment: fixed;
+			}	
 
 			.caixa2{
 				background: url(imagens/imagem2.jpg);
+				background-attachment: fixed;
 			}
 
+			.caixa3{
+				background: url(imagens/imagem3.jpg);
+				background-attachment: fixed;
+			}
 
+			.caixa4{
+				background: url(imagens/imagem4.jpg);
+				background-attachment: fixed;
+			}
+
+			.conteudo-titudo{
+				position: absolute;
+				left: 0%;
+				width: 100%;
+				top: 45%;
+
+				text-align: center;
+			}
+
+			.conteudo-titudo span.titulo{
+				color: #fff;
+				background-color: gray;
+				padding: 18px;
+				font-size: 25px;
+				letter-spacing: 5px;
+				text-transform: uppercase;
+			}
 		</style>
 	</head>
 	<body>
 
 		<div class="caixa1">
-			Caixa 1
+			<div class="conteudo-titudo">
+				<span class="titulo">passeio de balões</span>
+			</div>
 		</div>
 
 		<div class="conteudo">
 			<h3>Parallax</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.</p>
+
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.</p>
 		</div>
 
 		<div class="caixa2">
-			caixa 2
+			<div class="conteudo-titudo">
+				<span class="titulo">fazenda</span>
+			</div>
+		</div>
+
+		<div class="conteudo">
+			<h3>Parallax</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.</p>
+
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a ligula tellus. Cras auctor sapien sed tristique luctus.</p>
+		</div>
+
+		<div class="caixa3">
+			<div class="conteudo-titudo">
+				<span class="titulo">mulher esqusita</span>
+			</div>
+		</div>
+
+		<div class="caixa4">
+			<div class="conteudo-titudo">
+				<span class="titulo">montanha</span>
+			</div>
 		</div>
 
 
