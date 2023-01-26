@@ -25,7 +25,7 @@
 				}
 
 				sacar(valorSaque){
-					this.saldo -+ valorSaque;
+					this.saldo -= valorSaque;
 				}	
 
 				consultarSaldo(){
@@ -36,7 +36,10 @@
 			const x = new ContaBancaria();
 
 			console.log(x.consultarSaldo());
-
+			x.despositar(450)
+			console.log(x.consultarSaldo());
+			x.sacar(300)
+			console.log(x.consultarSaldo());
 		</script>
 	</head>
 	<body>
