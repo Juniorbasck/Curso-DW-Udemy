@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title></title>
+
+		<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+		<script type="text/babel">
+			
+			//um software de marcenaria 
+			//cadeira e sofá
+
+		  	/*--------------------------------------------------------*/
+			//paradigma procedural
+
+
+		
+			//cadeira 
+		 	let qtde_pernas = 4
+		 	let giratoria = true 
+		 	let cor = 'azul'
+		
+
+		 	//array de cadeira 
+			let cadeira = Array()
+
+			cadeira[0] = Array()
+			cadeira[0]['qtde_pernas'] = 4
+			cadeira[0]['giratoria'] = false
+			cadeira[0]['cor'] = 'azul'
+
+			cadeira[1] = Array()
+			cadeira[1]['qtde_pernas'] = 1
+			cadeira[1]['giratoria'] = true
+			cadeira[1]['cor'] = 'verde'
+
+			//console.log(cadeira)
+
+	
+		 	function girar_cadeira(indice){
+		 		if(cadeira[indice]['giratoria'] === true){
+		 			console.log('girou')
+		 		}else{
+		 			console.log('cadeira não é giratoria')
+		 		}
+		 	}
+
+		 	function adicionar_cadeira(qtde_pernas, giratoria, cor){
+		 		
+		 		let cadeira = Array()
+
+		 		cadeira = ['qtde_pernas'] = qtde_pernas
+		 		cadeira = ['giratoria'] = giratoria
+		 		cadeira = ['cor'] = cor
+
+		 		cadeira.push(cadeira);
+		 	}
+
+		 	adicionar_cadeira(3, false, 'laranja')
+
+			console.log(cadeira)
+	
+
+		</script>
+	</head>
+	<body>
+	
+		<div id="output"></div>
+
+	</body>
+</html>
