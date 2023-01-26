@@ -8,8 +8,33 @@
 		<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
 		<script type="text/babel">
-		const getMessage = () => "Hello World";
-		document.getElementById('output').innerHTML = getMessage();
+				
+		//3 escopos: global, função e bloco
+				/*
+				function x(){
+
+					console.log(serie1)
+				if(true){
+					var serie1 = "adwaddw"
+				}
+						console.log(serie1)	
+				}
+
+				x()
+
+				if(true){
+					
+					
+				}*/
+
+		if(true){
+			let serie = 'the last of us'
+			console.log(serie);
+		}
+			
+		console.log(serie);
+			
+
 		</script>
 	</head>
 	<body>
