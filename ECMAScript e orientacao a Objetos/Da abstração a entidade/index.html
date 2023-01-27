@@ -24,6 +24,7 @@
 			*/
 
 		 	//array de cadeira 
+			/* 
 			let cadeira = Array()
 
 			cadeira[0] = Array()
@@ -61,8 +62,32 @@
 		 	adicionar_cadeira(4, false, 'laranja')
 
 			console.log(cadeira)
-	
-		</script>
+			*/
+
+			//paradigma de OO
+			class Cadeira{
+
+				cosntructor(qtde_pernas, giratoria, cor){
+					this.qtde_pernas = qtde_pernas
+					this.giratoria = giratoria
+					this.cor = cor
+				}
+
+				giraCadeira(){
+					if(this.giratoria === true){
+						console.log('girou')
+					}else{
+						console.log('cadeira não é giratoria')
+					}
+				}
+			}
+			
+
+			let cadeira = new Cadeira(4, false, 'azul');
+
+			cadeira.giraCadeira()
+
+		</script>	
 	</head>
 	<body>
 	
