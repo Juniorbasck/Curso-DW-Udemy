@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title></title>
+
+		<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+		<script type="text/babel">
+
+			class Animal{
+				constructor(){
+					this.cor = ''
+					this.tamanho = null
+
+				}
+
+				dormir(){
+					console.log('dormir')
+				}
+			}
+			
+			class Cachorro extends Animal{
+
+				constructor(){
+
+					
+					this.orelhas = "Grndes e caidas"
+				}
+
+				correr(){
+					console.log('Correr');
+				}
+
+
+				rosnar(){
+					console.log('Rosnar');
+				}
+
+			}
+
+			class Passaro extends Animal{
+
+				constructor(){
+					
+					this.bico = 'Curto'
+				}
+
+				voar(){
+					console.log('Voar');
+				}
+
+			}
+
+			let cachorro = new Cachorro()
+			let passaro = new Passaro()
+
+			console.log(cachorro)
+			console.log(passaro)
+			
+		</script>
+	</head>
+	<body>
+	
+		<div id="output"></div>
+
+	</body>
+</html>
