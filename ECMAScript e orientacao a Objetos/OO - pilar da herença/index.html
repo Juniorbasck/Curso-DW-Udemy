@@ -13,7 +13,7 @@
 				constructor(){
 					this.cor = ''
 					this.tamanho = null
-
+					this.peso = null
 				}
 
 				dormir(){
@@ -24,8 +24,7 @@
 			class Cachorro extends Animal{
 
 				constructor(){
-
-					
+					super()
 					this.orelhas = "Grndes e caidas"
 				}
 
@@ -43,7 +42,7 @@
 			class Passaro extends Animal{
 
 				constructor(){
-					
+					super()
 					this.bico = 'Curto'
 				}
 
@@ -53,11 +52,33 @@
 
 			}
 
+			class Papagaio extends Passaro{
+				constructor(){
+					super()
+					this.sabeFala = false
+				}
+
+				falar(){
+					console.log('Falar')
+				}
+
+			}
+
 			let cachorro = new Cachorro()
 			let passaro = new Passaro()
+			let papagaio = new Papagaio()
+
+			/*
+			cachorro.dormir()
+			passaro.dormir()
+			papagaio.falar()
+			papagaio.dormir()
+			papagaio.voar()
+			*/
 
 			console.log(cachorro)
 			console.log(passaro)
+			console.log(papagaio)
 			
 		</script>
 	</head>
