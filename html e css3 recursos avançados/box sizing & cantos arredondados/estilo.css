@@ -2,11 +2,28 @@
 	width: 300px;
 	height: 300px;
 	background: #b9c941;
-	padding: 10px;
-	margin: 10px;
-	border-radius: 150px;
+	padding: 50px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	
+	/*alguns navegadores não suportam boder-radius, e então temos que usar
+	 prefixos para resolver esse problema 
+	-webkit-border-radius: 10px 50px 80px 100px;
+	-moz-border-radius: 10px 50px 80px 100px;
+	border-radius: 10px 50px 80px 100px;
+	*/
 }
 
-.arredondamento{
-	border-radius: 150px;
+#caixa2{
+	width:300px;
+	height: 300px;
+	background: #b9c941;
+
+	/*alguns navegadores não suportam boder-radius, e então temos que usar
+	 prefixos para resolver esse problema 
+	-webkit-border-radius: 10px 50px 80px 100px;
+	-moz-border-radius: 10px 50px 80px 100px;
+	border-radius: 10px 50px 80px 100px;
+	*/
 }
