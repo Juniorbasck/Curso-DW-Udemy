@@ -1,0 +1,45 @@
+#caixa{
+
+	width: 300px;
+	height: 300px;
+	/*background: url("imagens/camera.png");*/
+	/*background: linear-gradient(to left, red, green, yellow);*/
+	background: radial-gradient(red, green,yellow);
+}
+
+#caixa h1{
+	/*background: rgba(255, 255, 255, 0.5);*/
+}
+
+
+/*
+#caixa{
+	width: 300px;
+	height: 300px;
+	background: #b9c941;
+	padding: 20px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	
+	/*alguns navegadores não suportam boder-radius, e então temos que usar
+	 prefixos para resolver esse problema 
+	-webkit-border-radius: 10px 50px 80px 100px;
+	-moz-border-radius: 10px 50px 80px 100px;
+	border-radius: 10px 50px 80px 100px;
+
+}
+
+#caixa2{
+	width:300px;
+	height: 300px;
+	background: #b9c941;
+
+	/*alguns navegadores não suportam boder-radius, e então temos que usar
+	 prefixos para resolver esse problema 
+	-webkit-border-radius: 10px 50px 80px 100px;
+	-moz-border-radius: 10px 50px 80px 100px;
+	border-radius: 10px 50px 80px 100px;
+
+}
+*/
