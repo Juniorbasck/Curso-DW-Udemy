@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title></title>
+
+		<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+		<script type="text/babel">
+
+			let assinatura = {
+				idCliente: 1000, 
+				descricaoServico: 'Acesso a internent',
+				status(){
+					console.log('Ativo')
+				}
+			}
+
+			console.log(assinatura.descricaoServico)
+
+			let y = assinatura
+
+			console.log(y.descricaoServico)
+
+			y.descricaoServico = 'internent + tv + telefone'
+
+			console.log(assinatura.descricaoServico)
+			console.log(y.descricaoServico)
+
+
+		</script>
+	</head>
+	<body>
+		
+		<div id="output"></div>
+
+	</body>
+</html>
