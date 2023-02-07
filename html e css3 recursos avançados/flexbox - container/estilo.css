@@ -30,28 +30,39 @@
 }
 
 .item{
-	width: 100px;
+	/*width: 200px;*/
 	height: 100px;
 	background: white;
 	border: 1px solid black;
 	margin: 10px;
+
+	/*define propõrção de espaço ocupado porr um item*/
 	flex-grow: 0;
+
+	/*definne a capacidade de redução de tamanho do item*/
+	flex-shrink: 1;
+
+	/*indica o tamanho inicial do flex item antes da distribuição do espaço restante*/
+	flex-basis: 100px;
 }
 
-/*
+
 .item1{
-	flex-grow: 1;
+	/*flex-grow: 1;*/
+	/*flex-shrink: 1;*/
 }
 
 .item2{
-	flex-grow: 2;
+	/*flex-grow: 1;*/
+	/*flex-shrink: 1;*/
 }
 
 .item3{
-	flex-grow: 2;
+	/*flex-grow: 1;*/
+	/*flex-shrink: 1;*/
 }
 
-*/
+
 
 /*
 .ordem1{
