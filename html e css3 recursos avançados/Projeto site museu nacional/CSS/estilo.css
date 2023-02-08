@@ -67,6 +67,7 @@ aside{
 	width: 350px;
 	float: right;
 	background: #ebe7dd;
+	padding-bottom: 30px;
 }
 
 section#visita{
@@ -76,12 +77,24 @@ section#visita{
 	text-align: center;
 }
 
+section#galeria{
+	padding: 0px 20px 0px 20px;
+}
+
 section#galeria a{
 	display: block;
 	background: url(../imagens/fundo-foto.png) no-repeat;
-	border: 1px solid red;
 	float: left; 
-	padding: 15px;
+	padding: 15px 15px 17px 15px; 
+	margin: 10px 0 0 20px;
+}
+
+section#galeria h4{
+	padding-left: 20px;
+}
+section#galeria img{
+	margin-left: 9px;
+	margin-top: 3px;
 }
 
 h4{
