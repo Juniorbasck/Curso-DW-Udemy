@@ -177,3 +177,7 @@ footer{
 	margin-top: 20px;
 	clear: both;
 }
+
+footer>p a{
+	padding: 2px 10px;
+}
