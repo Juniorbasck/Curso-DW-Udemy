@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title></title>
+
+		<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+		<script type="text/babel">
+            
+            //array
+            /*
+            let arr = [10, 20, 30, 40]
+            let  [a, ...b] = arr
+
+            console.log(a, b)
+            */
+
+            let obj = {
+                a:10, b:20, c:30, d:40,
+            }
+
+            let {a, ...b} = obj
+
+            console.log(a, b)
+		</script>
+	</head>
+	<body>
+
+
+		
+		<div id="output"></div>
+
+	</body>
+</html>
