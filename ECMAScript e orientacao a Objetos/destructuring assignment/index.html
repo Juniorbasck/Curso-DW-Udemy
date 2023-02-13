@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title></title>
+
+		<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+		<script type="text/babel">
+            
+            //destructuring
+
+            //ele é um operador de destruturação, esssa estrutra pode ser um array e o obj 
+
+            let frutas = ['Abacaxi', 'Uva', 'Pera', 'Mamão']
+
+            //let [a, b] = frutas;  
+
+            let [a, b, c, d, e = 'banana'] = frutas;
+
+           // console.log(a, b, c, d, e)
+        
+           let coisas = [['Abacaxi', 'Uva', 'Pera', 'Mamão'], ['José', 'Maria']]
+            let [, [,n2]] = coisas; 
+            let [[, , n3],] = coisas; 
+
+           console.log(n2)
+           console.log(n3)
+
+		</script>
+	</head>
+	<body>
+
+
+		
+		<div id="output"></div>
+
+	</body>
+</html>
