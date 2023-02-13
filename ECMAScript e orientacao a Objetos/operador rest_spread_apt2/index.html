@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title></title>
+
+		<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+		<script type="text/babel">
+
+            //contexto rest
+            /*
+            function soma(...params){
+                let result = 0; 
+
+                console.log(params)
+
+                params.forEach(v => result += v)
+
+                return result;
+            }
+            
+
+            console.log(soma(3, 8, 5, 7))
+            */
+
+            function multiplicacao(m, ...p){
+                console.log(m)
+                let result = 0; 
+                console.log(p)  
+
+                p.forEach(v => result += m*v)
+
+                return result;
+            }
+
+            console.log(multiplicacao(5, 7, 12, 3, 49))
+		</script>
+	</head>
+	<body>
+
+
+		
+		<div id="output"></div>
+
+	</body>
+</html>
