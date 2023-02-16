@@ -77,44 +77,44 @@ class Bd{
 
         //ano 
         if(despesa.ano !== ''){
-              console.log('Filtro ano')  
+               
              despesasFiltradas = despesasFiltradas.filter(d => d.ano == despesa.ano)
         }
 
         //mes
         if(despesa.mes !== ''){
-            console.log('Filtro mes') 
+        
             despesasFiltradas = despesasFiltradas.filter(d => d.mes == despesa.mes)
         }
 
         //dia
         if(despesa.dia !== ''){
-            console.log('Filtro dia') 
+            
             despesasFiltradas = despesasFiltradas.filter(d => d.dia == despesa.dia)
         }
 
         //tipo 
         if(despesa.tipo !== ''){
-            console.log('Filtro tipo') 
+            
             despesasFiltradas = despesasFiltradas.filter(d => d.tipo == despesa.tipo)
         }
 
 
         //descricao
         if(despesa.descricao !== ''){
-            console.log('Filtro descrição') 
+             
             despesasFiltradas = despesasFiltradas.filter(d => d.descricao == despesa.descricao)
         }
 
 
         //valor
         if(despesa.valor !== ''){
-            console.log('Filtro valor') 
+            
             despesasFiltradas = despesasFiltradas.filter(d => d.valor == despesa.valor)
         }
 
 
-        console.log(despesasFiltradas);
+        return despesasFiltradas; 
     }
 }
 
@@ -175,15 +175,17 @@ function cadatrarDespesas(){
     }
 }
 
-function carregaListaDespesas(){
-
-    let desespesa = Array()
-
-    desespesa = bd.recuperarRegistros(); 
+function carregaListaDespesas(desespesa = Array(), filtro = false){
+    
+    if(desespesa.length == 0 && filtro == false){
+        
+        desespesa = bd.recuperarRegistros(); 
+    }
     
     //selecionando a tabela
     //percorrer o array despesas listando cada despesa de forma dinamica
     let listaDespesa = document.getElementById('listaDesespesas')
+    listaDespesa.innerHTML = '';
 
     desespesa.forEach(function(d){
        
@@ -228,5 +230,8 @@ function pesquisarDespesa(){
 
     let despesa = new Despesa(ano, mes, dia, tipo, descricao, valor); 
 
-    bd.pesquisar(despesa)
+
+    let desespesas = bd.pesquisar(despesa)
+    
+    carregaListaDespesas(desespesas, true);
 }
