@@ -33,6 +33,7 @@ class Bd{
 
         return (parseInt(ProximoId) + 1);
     }
+
     gravar(d){
         
         let id = this.getProximoId()
@@ -58,6 +59,7 @@ class Bd{
                 continue
             }
 
+            desespesa.id = i
             listadesepesas.push(desespesa)
         }
 
@@ -116,6 +118,11 @@ class Bd{
 
         return despesasFiltradas; 
     }
+
+    remover(id){
+        console.log('Evento desparado')
+        localStorage.removeItem(id)
+    }
 }
 
 let bd = new Bd()
@@ -143,7 +150,7 @@ function cadatrarDespesas(){
 
     if(despesa.validarDados()){
 
-        //bd.gravar(despesa);
+        bd.gravar(despesa);
         
 
         document.getElementById('modal_titulo').innerHTML = 'Regristro inserido com sucesso'
@@ -214,6 +221,21 @@ function carregaListaDespesas(desespesa = Array(), filtro = false){
         linha.insertCell(1).innerHTML = d.tipo
         linha.insertCell(2).innerHTML = d.descricao
         linha.insertCell(3).innerHTML = d.valor
+
+        //criar botão de exclusão
+        let btn = document.createElement('button')
+        btn.className = 'btn btn-danger'
+        btn.innerHTML = '<i class="fas fa-times"></i>'
+        btn.id = d.id
+        btn.onclick = function(){
+            
+            bd.remover(this.id)
+            console.log(this.id)
+            window.location.reload();
+        }
+        linha.insertCell(4).append(btn)
+
+        //console.log(d)
     })
 
 }
