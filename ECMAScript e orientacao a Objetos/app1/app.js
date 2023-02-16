@@ -89,7 +89,8 @@ function cadatrarDespesas(){
     ) 
 
     if(despesa.validarDados()){
-        bd.gravar(despesa);
+
+        //bd.gravar(despesa);
         
 
         document.getElementById('modal_titulo').innerHTML = 'Regristro inserido com sucesso'
@@ -100,6 +101,13 @@ function cadatrarDespesas(){
 
 
         $('#registrarDesespesas').modal('show');
+
+         document.getElementById('ano').value = ''
+         document.getElementById('mes').value = ''
+         document.getElementById('dia').value = ''
+         document.getElementById('tipo').value = ''
+         document.getElementById('descricao').value = ''
+         document.getElementById('valor').value = ''
         
     }else{
         //dialogi de erro
@@ -120,6 +128,48 @@ function carregaListaDespesas(){
 
     desespesa = bd.recuperarRegistros(); 
     
+    //selecionando a tabela
+    //percorrer o array despesas listando cada despesa de forma dinamica
+    let listaDespesa = document.getElementById('listaDesespesas')
 
-    console.log(desespesa)
+    
+    /*
+    <tr>
+                <th>Data</th>
+                <th>Tipo</th>
+                <th>Descrição</th>
+                <th>Valor</th>
+                <th></th>
+              </tr>
+    */
+
+    desespesa.forEach(function(d){
+       
+        console.log(d)
+
+        let linha = listaDespesa.insertRow()
+
+        linha.insertCell(0).innerHTML = `${d.dia}/${d.mes}/${d.ano}`
+        
+
+        //ajustaar o tipo 
+
+        switch(d.tipo){
+            case '1': d.tipo = 'Alimentação'
+                break
+            case '2': d.tipo = 'Educação'
+                break
+            case '3': d.tipo = 'Lazer'
+                break
+            case '4': d.tipo = 'Saúde'
+                break
+            case '5': d.tipo = 'Transporte'
+                break
+        }
+
+        linha.insertCell(1).innerHTML = d.tipo
+        linha.insertCell(2).innerHTML = d.descricao
+        linha.insertCell(3).innerHTML = d.valor
+    })
+
 }
