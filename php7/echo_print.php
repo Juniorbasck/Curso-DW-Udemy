@@ -13,7 +13,7 @@
 
         echo 'comando echo<br/>';
         print 'comando print<hr/>';
-
+        
     ?>
 
 	</body>

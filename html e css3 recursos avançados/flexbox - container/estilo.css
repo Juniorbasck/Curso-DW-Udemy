@@ -40,7 +40,7 @@
 	flex-grow: 0;
 
 	/*definne a capacidade de redução de tamanho do item*/
-	flex-shrink: 1;
+	flex-shrink: 0;
 
 	/*indica o tamanho inicial do flex item antes da distribuição do espaço restante*/
 	flex-basis: 100px;
