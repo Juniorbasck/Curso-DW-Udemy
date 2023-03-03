@@ -12,7 +12,7 @@
         <?php
            
             $usarioCartao = true;
-            $valorCompra = 250;
+            $valorCompra = 750;
 
             $valor_frete = 50; 
 
@@ -36,24 +36,39 @@
 
             <p>Possui cartão da loja
                 <?php
+
+                    $teste = $recebeu_desconto ? 'SIM' : 'NÃO';
+
+                    echo $teste;
+
+                    /*
                     if($usarioCartao == true){
                         echo 'SIM';
                     }else{
                         echo 'NÃO';
                     }
+
+                    */
                 ?>
             </p>
             
             
             <h1>Recebeu Desconto do frete?</h1>
 
-            <p>Possui cartão da loja
+            <p>Possui cartão da loja <?= $usarioCartao ? 'SIM' : 'NÃO' ?>
+
                 <?php
+
+                    // <codição> ? true : false
+                    
+
+                    /*
                     if($recebeu_desconto == true){
                         echo 'SIM';
                     }else{
                         echo 'NÃO';
                     }
+                    */
                 ?>
             </p>
 
