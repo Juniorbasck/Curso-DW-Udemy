@@ -12,15 +12,23 @@
         <?php
            
             $usarioCartao = true;
-            $valorCompra = 200;
+            $valorCompra = 250;
 
             $valor_frete = 50; 
 
-            $recebeu_desconto = false;
+            $recebeu_desconto = true;
 
-            if($usarioCartao == true && $valorCompra >= 100){
+            if($usarioCartao == true && $valorCompra >= 400){
                 $valor_frete = 0;
-                $recebeu_desconto = true;
+              
+            } else if($usarioCartao == true && $valorCompra >= 300){
+                $valor_frete = 10;
+                
+            } else if($usarioCartao == true && $valorCompra >= 100){
+                $valor_frete = 25;
+               
+            }else{
+                $recebeu_desconto = false;
             }
         ?>
 
