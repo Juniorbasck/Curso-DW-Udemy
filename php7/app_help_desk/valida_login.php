@@ -1,4 +1,38 @@
 <?php 
+
+    //verifica se autenticação foi realizada
+    $usuarios_autenticado = false; 
+
+
+    //usuarios do sistemas
+    $usuarios_app = array(
+        array('email' => 'adm@teste.com.br', 'senha' => '123456'),
+        array('email' => 'user@teste.com.br', 'senha' => 'abcd'),
+    );  
+
+    
+    // echo '<pre>';
+    // print_r($usuarios_app);
+    // echo '</re>';
+
+    foreach($usuarios_app as $user){
+
+        // echo 'Usuario app: ' . $user['email'] . ' / ' . $user['senha']; 
+        // echo '<br>';
+        // echo 'Usuario form: ' . $_POST['email'] . ' / ' . $_POST['senha'];
+        
+        if($user['email'] == $_POST['email'] && $user['senha'] == $_POST['senha']){
+            $usuarios_autenticado = true;
+        }
+    };
+
+    if($usuarios_autenticado){
+        echo 'Usuário autenticado';
+    }else{
+        header('Location: index.php?login=erro');   
+    }
+    
+
     /*
     print_r($_GET);
 
@@ -8,13 +42,10 @@
     echo $_GET['senha'];
     */
 
-    print_r($_POST);
+    // print_r($_POST);
     
-    echo 'br />';
+    // echo 'br />';
 
-    echo '<br>';
-    echo $_POST['email'];
-    echo '<br>';
-    echo $_POST['senha'];
+    
 
 ?>
