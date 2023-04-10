@@ -58,7 +58,7 @@
 
                 ?>
                   <div class="text-danger">    
-                    Faça login aqui!
+                    Faça login primeiro antes de entrar
                   </div>
                 <?php } ?>
 
