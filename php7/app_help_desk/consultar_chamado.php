@@ -1,7 +1,5 @@
 <?php 
     require_once "validador_acesso.php";
-
-    
 ?>
 <?php 
     
@@ -10,12 +8,12 @@
     $chamados = array();
 
     //abrir arquivo.hd
-    $arquivo = fopen('arquivo.hd', 'r');
+    $arquivo = fopen('../../../app_help_desk/arquivo.hd', 'r');
 
     //enquato houver registros (linhas) a serem recuperados
     while(!feof($arquivo)){
       //linhas
-      $registro= fgets($arquivo);
+      $registro = fgets($arquivo);
       $chamados[] = $registro;
     }
 
@@ -64,7 +62,7 @@
             
             <?php 
               foreach($chamados as $chamado){ 
-              
+                
             ?>
                 <?php 
 
