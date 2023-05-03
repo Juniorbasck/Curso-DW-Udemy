@@ -7,23 +7,35 @@
         public $nome = null; 
         public $telefone = null;
         public $numFilhos = null; 
+        public $cargo = null; 
+        public $salario = null;
 
         //getters setters (overloading / sobrecarga)
-        function setNome($nome){
-            $this->nome = $nome;
+        function __set($atributo, $valor){
+            $this->$atributo = $valor;
         }
 
-        function setNumFilhos($numFilhos){
-            $this->numFilhos = $numFilhos;
+        function __get($atributo){
+            return $this->$atributo;
         }
 
-        function getNome(){
-            return $this->nome;
-        }
 
-        function getNumFilhos(){
-            return $this->numFilhos;
-        }
+        
+        // function setNome($nome){
+        //     $this->nome = $nome;
+        // }
+
+        // function setNumFilhos($numFilhos){
+        //     $this->numFilhos = $numFilhos;
+        // }
+
+        // function getNome(){
+        //     return $this->nome;
+        // }
+
+        // function getNumFilhos(){
+        //     return $this->numFilhos;
+        // }
 
         //métodos
         function resumirCadFunc(){
@@ -37,14 +49,23 @@
     }
 
     $y = new Funcinario();  
-    $y->setNome('José');
-    $y->setNumFilhos(2);
-    //echo $y->resumirCadFunc();
-    echo $y->getNome() ." possui " . $y->getNumFilhos() . " filhos(s)";
+    $y->__set('nome', 'José');
+    $y->__set('numFilhos', '2');
+    $y->__set('cargo', 'Desenvolvedor');
+    $y->__set('telefone', '11 99999-9999');
+    $y->__set('salario', '5.800,00');
 
+    echo 'O nome do funcionario é: ' . $y->__get('nome') ." possui " . $y->__get('numFilhos') . " filhos(s)";
+    echo '<br/>';
+    echo 'tem um cargo de ' . $y->__get('cargo') . ' e recebe um salário de ' . $y->__get('salario'); 
+    echo '<br/>';
+    echo 'Seu telefone é: ' . $y->__get('telefone');
+
+    echo '<hr/>';
+    
     echo '<br/>';
     $x = new Funcinario();
-    $x->setNome('Maria');
-    $x->setNumFilhos(0);
-    echo $x->getNome() ." possui " . $x->getNumFilhos() . " filhos(s)";
+    $x->__set('nome', 'Maria');
+    $x->__set('numFilhos', 0);
+    echo $x->__get('nome') . " possui " . $x->__get('numFilhos') . " filhos(s)";
 ?>  
