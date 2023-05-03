@@ -4,10 +4,26 @@
     class Funcinario{
 
         //atributos
-        public $nome = 'José'; 
-        public $telefone = '11 9999-999';
-        public $numFilhos = 2; 
+        public $nome = null; 
+        public $telefone = null;
+        public $numFilhos = null; 
 
+        //getters setters (overloading / sobrecarga)
+        function setNome($nome){
+            $this->nome = $nome;
+        }
+
+        function setNumFilhos($numFilhos){
+            $this->numFilhos = $numFilhos;
+        }
+
+        function getNome(){
+            return $this->nome;
+        }
+
+        function getNumFilhos(){
+            return $this->numFilhos;
+        }
 
         //métodos
         function resumirCadFunc(){
@@ -20,13 +36,15 @@
         }
     }
 
-    $y = new Funcinario(); 
-    echo $y->resumirCadFunc();
-    echo "<br />";
-    $y->modificarNumFilhos(8);
-    echo $y->resumirCadFunc();
-    echo "<hr />";
+    $y = new Funcinario();  
+    $y->setNome('José');
+    $y->setNumFilhos(2);
+    //echo $y->resumirCadFunc();
+    echo $y->getNome() ." possui " . $y->getNumFilhos() . " filhos(s)";
 
+    echo '<br/>';
     $x = new Funcinario();
-    echo $x->resumirCadFunc();
+    $x->setNome('Maria');
+    $x->setNumFilhos(0);
+    echo $x->getNome() ." possui " . $x->getNumFilhos() . " filhos(s)";
 ?>  
