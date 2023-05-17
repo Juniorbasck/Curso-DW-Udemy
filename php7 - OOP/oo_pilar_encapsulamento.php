@@ -30,13 +30,13 @@
 
         // }
 
-        public function __get($attr){
-            return $this->$attr;
-        }
+        // public function __get($attr){
+        //     return $this->$attr;
+        // }
 
-        public function __set($attr, $value)    {
-            $this->$attr = $value;
-        }
+        // public function __set($attr, $value)    {
+        //     $this->$attr = $value;
+        // }
 
         private function executarMania(){
             echo 'Assobiar';
@@ -52,7 +52,7 @@
             if($x >=1 &&    $x <= 8){
 
                 $this->responder();
-                
+
             }else{
 
                 $this->executarMania();
@@ -60,8 +60,28 @@
         }
     }
 
-    $pai = new Pai();
-    echo $pai->executarAcao();
+    class Filho extends Pai{
 
+        public function getAtributo($attr){
+            return $this->$attr;
+        }
+
+        public function setAtributo($attr, $value){
+            $this->$attr = $value;
+        }
+    }
+    
+    $filho = new Filho();
+    echo '<pre>';
+    print_r($filho);
+    echo '<pre>';
+    // $pai = new Pai();
+    // echo $pai->executarAcao();
+
+
+    //exibir os métodos do objeto
+    print_r(get_class_methods($filho));
+
+    echo $filho->__get('humor');
 
 ?>  
