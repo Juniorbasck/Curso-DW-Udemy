@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
-      "projectName": "PrimeiroProjeto",
-      "projectPath": "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\tiposDedados\\tiposDedados\\tiposDedados.csproj",
+      "projectName": "tiposDedados",
+      "projectPath": "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\tiposDedados\\tiposDedados\\tiposDedados.csproj",
       "packagesPath": "C:\\Users\\AdilsonAlvesNevesJun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\PrimeiroProjeto\\PrimeiroProjeto\\obj\\",
+      "outputPath": "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\tiposDedados\\tiposDedados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

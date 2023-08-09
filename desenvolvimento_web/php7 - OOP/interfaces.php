@@ -19,7 +19,7 @@
             echo 'Desligar';
         }
     }
-
+    
     class TV implements EquipamentoEletronicoInterface{
 
         public function trocarCanal(){

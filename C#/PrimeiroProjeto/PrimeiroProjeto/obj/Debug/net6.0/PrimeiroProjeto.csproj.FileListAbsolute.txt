@@ -3,7 +3,6 @@ C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Primeir
 C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.runtimeconfig.json
 C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.dll
 C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.pdb
-C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.AssemblyReference.cache
 C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfoInputs.cache
 C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfo.cs
