@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\refint\saidaDeDados.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\ref\saidaDeDados.dll
