@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\bin\Debug\net6.0\concatanacao.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\bin\Debug\net6.0\concatanacao.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\bin\Debug\net6.0\concatanacao.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\bin\Debug\net6.0\concatanacao.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\bin\Debug\net6.0\concatanacao.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\obj\Debug\net6.0\concatanacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\obj\Debug\net6.0\concatanacao.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\obj\Debug\net6.0\concatanacao.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\obj\Debug\net6.0\concatanacao.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\obj\Debug\net6.0\concatanacao.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\obj\Debug\net6.0\refint\concatanacao.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\obj\Debug\net6.0\concatanacao.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\obj\Debug\net6.0\concatanacao.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\concatanacao\concatanacao\obj\Debug\net6.0\ref\concatanacao.dll
