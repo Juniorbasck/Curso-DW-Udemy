@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\bin\Debug\net6.0\operadoresDeAtribuicao.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\bin\Debug\net6.0\operadoresDeAtribuicao.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\bin\Debug\net6.0\operadoresDeAtribuicao.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\bin\Debug\net6.0\operadoresDeAtribuicao.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\bin\Debug\net6.0\operadoresDeAtribuicao.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\obj\Debug\net6.0\operadoresDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\obj\Debug\net6.0\operadoresDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\obj\Debug\net6.0\operadoresDeAtribuicao.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\obj\Debug\net6.0\operadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\obj\Debug\net6.0\operadoresDeAtribuicao.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\obj\Debug\net6.0\refint\operadoresDeAtribuicao.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\obj\Debug\net6.0\operadoresDeAtribuicao.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\obj\Debug\net6.0\operadoresDeAtribuicao.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\operadoresDeAtribuicao\operadoresDeAtribuicao\obj\Debug\net6.0\ref\operadoresDeAtribuicao.dll
