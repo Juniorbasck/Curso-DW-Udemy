@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\bin\Debug\net6.0\entradaDadosPart_2.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\bin\Debug\net6.0\entradaDadosPart_2.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\bin\Debug\net6.0\entradaDadosPart_2.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\bin\Debug\net6.0\entradaDadosPart_2.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\bin\Debug\net6.0\entradaDadosPart_2.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\obj\Debug\net6.0\entradaDadosPart_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\obj\Debug\net6.0\entradaDadosPart_2.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\obj\Debug\net6.0\entradaDadosPart_2.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\obj\Debug\net6.0\entradaDadosPart_2.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\obj\Debug\net6.0\entradaDadosPart_2.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\obj\Debug\net6.0\refint\entradaDadosPart_2.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\obj\Debug\net6.0\entradaDadosPart_2.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\obj\Debug\net6.0\entradaDadosPart_2.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDadosPart_2\entradaDadosPart_2\obj\Debug\net6.0\ref\entradaDadosPart_2.dll
