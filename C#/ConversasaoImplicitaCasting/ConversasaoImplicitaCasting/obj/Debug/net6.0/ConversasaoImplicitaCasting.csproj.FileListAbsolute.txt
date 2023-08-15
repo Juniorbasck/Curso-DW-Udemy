@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\bin\Debug\net6.0\ConversasaoImplicitaCasting.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\bin\Debug\net6.0\ConversasaoImplicitaCasting.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\bin\Debug\net6.0\ConversasaoImplicitaCasting.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\bin\Debug\net6.0\ConversasaoImplicitaCasting.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\bin\Debug\net6.0\ConversasaoImplicitaCasting.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\obj\Debug\net6.0\ConversasaoImplicitaCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\obj\Debug\net6.0\ConversasaoImplicitaCasting.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\obj\Debug\net6.0\ConversasaoImplicitaCasting.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\obj\Debug\net6.0\ConversasaoImplicitaCasting.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\obj\Debug\net6.0\ConversasaoImplicitaCasting.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\obj\Debug\net6.0\refint\ConversasaoImplicitaCasting.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\obj\Debug\net6.0\ConversasaoImplicitaCasting.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\obj\Debug\net6.0\ConversasaoImplicitaCasting.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ConversasaoImplicitaCasting\ConversasaoImplicitaCasting\obj\Debug\net6.0\ref\ConversasaoImplicitaCasting.dll
