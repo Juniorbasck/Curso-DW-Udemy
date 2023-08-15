@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\bin\Debug\net6.0\entradaDeDadosEmCsharp.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\bin\Debug\net6.0\entradaDeDadosEmCsharp.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\bin\Debug\net6.0\entradaDeDadosEmCsharp.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\bin\Debug\net6.0\entradaDeDadosEmCsharp.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\bin\Debug\net6.0\entradaDeDadosEmCsharp.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\obj\Debug\net6.0\entradaDeDadosEmCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\obj\Debug\net6.0\entradaDeDadosEmCsharp.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\obj\Debug\net6.0\entradaDeDadosEmCsharp.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\obj\Debug\net6.0\entradaDeDadosEmCsharp.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\obj\Debug\net6.0\entradaDeDadosEmCsharp.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\obj\Debug\net6.0\refint\entradaDeDadosEmCsharp.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\obj\Debug\net6.0\entradaDeDadosEmCsharp.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\obj\Debug\net6.0\entradaDeDadosEmCsharp.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\entradaDeDadosEmCsharp\entradaDeDadosEmCsharp\obj\Debug\net6.0\ref\entradaDeDadosEmCsharp.dll
