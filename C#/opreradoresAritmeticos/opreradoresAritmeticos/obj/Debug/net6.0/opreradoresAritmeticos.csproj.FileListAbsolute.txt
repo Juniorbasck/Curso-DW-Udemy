@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\obj\Debug\net6.0\opreradoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\obj\Debug\net6.0\opreradoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\obj\Debug\net6.0\opreradoresAritmeticos.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\obj\Debug\net6.0\opreradoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\bin\Debug\net6.0\opreradoresAritmeticos.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\bin\Debug\net6.0\opreradoresAritmeticos.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\bin\Debug\net6.0\opreradoresAritmeticos.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\bin\Debug\net6.0\opreradoresAritmeticos.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\bin\Debug\net6.0\opreradoresAritmeticos.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\obj\Debug\net6.0\opreradoresAritmeticos.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\obj\Debug\net6.0\refint\opreradoresAritmeticos.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\obj\Debug\net6.0\opreradoresAritmeticos.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\obj\Debug\net6.0\opreradoresAritmeticos.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\opreradoresAritmeticos\opreradoresAritmeticos\obj\Debug\net6.0\ref\opreradoresAritmeticos.dll
