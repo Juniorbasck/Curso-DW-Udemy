@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\saidaDeDados\\saidaDeDados\\saidaDeDados.csproj": {}
+    "C:\\Users\\adilson.junior\\Source\\Repos\\Curso-DW-Udemy\\C#\\saidaDeDados\\saidaDeDados\\saidaDeDados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\saidaDeDados\\saidaDeDados\\saidaDeDados.csproj": {
+    "C:\\Users\\adilson.junior\\Source\\Repos\\Curso-DW-Udemy\\C#\\saidaDeDados\\saidaDeDados\\saidaDeDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\saidaDeDados\\saidaDeDados\\saidaDeDados.csproj",
+        "projectUniqueName": "C:\\Users\\adilson.junior\\Source\\Repos\\Curso-DW-Udemy\\C#\\saidaDeDados\\saidaDeDados\\saidaDeDados.csproj",
         "projectName": "saidaDeDados",
-        "projectPath": "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\saidaDeDados\\saidaDeDados\\saidaDeDados.csproj",
-        "packagesPath": "C:\\Users\\AdilsonAlvesNevesJun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\saidaDeDados\\saidaDeDados\\obj\\",
+        "projectPath": "C:\\Users\\adilson.junior\\Source\\Repos\\Curso-DW-Udemy\\C#\\saidaDeDados\\saidaDeDados\\saidaDeDados.csproj",
+        "packagesPath": "C:\\Users\\adilson.junior\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adilson.junior\\Source\\Repos\\Curso-DW-Udemy\\C#\\saidaDeDados\\saidaDeDados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AdilsonAlvesNevesJun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\adilson.junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

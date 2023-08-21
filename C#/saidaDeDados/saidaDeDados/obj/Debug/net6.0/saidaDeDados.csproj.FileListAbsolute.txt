@@ -12,3 +12,17 @@ C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDe
 C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.pdb
 C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.genruntimeconfig.cache
 C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\ref\saidaDeDados.dll
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.exe
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.deps.json
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.runtimeconfig.json
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.dll
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.pdb
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.AssemblyInfoInputs.cache
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.AssemblyInfo.cs
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.dll
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\refint\saidaDeDados.dll
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.pdb
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.genruntimeconfig.cache
+C:\Users\adilson.junior\Source\Repos\Curso-DW-Udemy\C#\saidaDeDados\saidaDeDados\obj\Debug\net6.0\ref\saidaDeDados.dll
