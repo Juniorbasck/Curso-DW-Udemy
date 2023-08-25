@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\bin\Debug\net6.0\funcoes.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\bin\Debug\net6.0\funcoes.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\bin\Debug\net6.0\funcoes.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\bin\Debug\net6.0\funcoes.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\bin\Debug\net6.0\funcoes.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\obj\Debug\net6.0\funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\obj\Debug\net6.0\funcoes.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\obj\Debug\net6.0\funcoes.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\obj\Debug\net6.0\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\obj\Debug\net6.0\funcoes.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\obj\Debug\net6.0\refint\funcoes.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\obj\Debug\net6.0\funcoes.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\obj\Debug\net6.0\funcoes.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\funcoes\funcoes\obj\Debug\net6.0\ref\funcoes.dll
