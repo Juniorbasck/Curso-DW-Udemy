@@ -1,6 +1,7 @@
 ﻿//// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 
+using resolvendoOPP;
 using System;
 using System.Globalization;
 
@@ -11,25 +12,28 @@ namespace PrimeiroProjeto // Note: actual namespace depends on the project name.
         static void Main(string[] args)
         {
 
-            double xA, xB, xC, yA, yB, yC;
+            Triangulo x, y; 
+
+            x = new Triangulo();
+            y = new Triangulo();
 
             Console.WriteLine("Entre com as medidas: ");
 
-            xA = double.Parse(Console.ReadLine());
-            xB = double.Parse(Console.ReadLine());
-            xC = double.Parse(Console.ReadLine());
+            x.A = double.Parse(Console.ReadLine());
+            x.B = double.Parse(Console.ReadLine());
+            x.C = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Entre com as medidas: ");
 
-            yA = double.Parse(Console.ReadLine());
-            yB = double.Parse(Console.ReadLine());
-            yC = double.Parse(Console.ReadLine());
+            y.A = double.Parse(Console.ReadLine());
+            y.B = double.Parse(Console.ReadLine());
+            y.C = double.Parse(Console.ReadLine());
 
-            double p = (xA + xB + xC) / 2.0;
-            double areaX = Math.Sqrt(p * (p - xA) * (p - xB) * (p - xC));
+            double p = (x.A + x.B + x.C) / 2.0;
+            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
 
-            p = (yA + yB + yC) / 2.0;
-            double areaY = Math.Sqrt(p * (p - yA) * (p - yB) * (p - yC));
+            p = (y.A + y.B + y.C) / 2.0;
+            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
 
             Console.WriteLine("Area de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
 
