@@ -29,11 +29,9 @@ namespace PrimeiroProjeto // Note: actual namespace depends on the project name.
             y.B = double.Parse(Console.ReadLine());
             y.C = double.Parse(Console.ReadLine());
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
+            double areaX = x.Area();
 
-            p = (y.A + y.B + y.C) / 2.0;
-            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            double areaY = x.Area();
 
             Console.WriteLine("Area de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
 
