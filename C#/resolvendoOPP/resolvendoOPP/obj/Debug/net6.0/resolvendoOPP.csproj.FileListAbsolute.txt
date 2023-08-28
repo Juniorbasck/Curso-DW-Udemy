@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\bin\Debug\net6.0\resolvendoOPP.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\bin\Debug\net6.0\resolvendoOPP.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\bin\Debug\net6.0\resolvendoOPP.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\bin\Debug\net6.0\resolvendoOPP.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\bin\Debug\net6.0\resolvendoOPP.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\obj\Debug\net6.0\resolvendoOPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\obj\Debug\net6.0\resolvendoOPP.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\obj\Debug\net6.0\resolvendoOPP.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\obj\Debug\net6.0\resolvendoOPP.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\obj\Debug\net6.0\resolvendoOPP.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\obj\Debug\net6.0\refint\resolvendoOPP.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\obj\Debug\net6.0\resolvendoOPP.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\obj\Debug\net6.0\resolvendoOPP.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\resolvendoOPP\resolvendoOPP\obj\Debug\net6.0\ref\resolvendoOPP.dll

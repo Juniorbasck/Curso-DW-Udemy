@@ -8,7 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\AdilsonAlvesNevesJun\\.nuget\\packages\\": {},
+    "C:\\Users\\adilson.junior\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -17,14 +17,14 @@
       "projectUniqueName": "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
       "projectName": "PrimeiroProjeto",
       "projectPath": "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
-      "packagesPath": "C:\\Users\\AdilsonAlvesNevesJun\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\adilson.junior\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Curso-DW-Udemy\\C#\\PrimeiroProjeto\\PrimeiroProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\AdilsonAlvesNevesJun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\adilson.junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
