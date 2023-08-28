@@ -39,7 +39,7 @@ namespace PrimeiroProjeto // Note: actual namespace depends on the project name.
 
             if (areaX > areaX)
             {
-                Console.WriteLine("Maior area: X");
+                Console.WriteLine("Maior area: X"); 
             }
             else
             {
