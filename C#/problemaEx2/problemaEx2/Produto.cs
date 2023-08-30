@@ -21,5 +21,14 @@ namespace problemaEx2
         {
             return Preco * Quantidade; 
         }
+
+        public override string ToString()
+        {
+
+            return nome + ", $ " + Preco
+                + " , "
+                + Quantidade
+                + " unidades, total em estoque: $ " + ValorTotalEmEstoque();
+        }
     }
 }

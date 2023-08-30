@@ -14,7 +14,7 @@ namespace Course
 
             Console.WriteLine("Entre com os dados do produto: ");
 
-            Console.WriteLine("nome: ");
+            Console.Write("nome: ");
 
             p.nome = Console.ReadLine();
 
