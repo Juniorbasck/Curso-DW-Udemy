@@ -22,6 +22,13 @@ namespace problemaEx2
             Preco = preco;
             Quantidade = quantidade;
         }
+
+        public Produto(string nome, double preco) 
+        {
+            Nome= nome;
+            Preco = preco;
+            Quantidade = 5;
+        }
         public double ValorTotalEmEstoque()
         {
             return Preco * Quantidade; 
@@ -40,7 +47,7 @@ namespace problemaEx2
         public override string ToString()
         {
 
-            return nome + ", $ " + Preco
+            return Nome + ", $ " + Preco
                 + " , "
                 + Quantidade
                 + " unidades, total em estoque: $ " + ValorTotalEmEstoque();
