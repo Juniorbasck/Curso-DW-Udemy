@@ -14,7 +14,11 @@ namespace problemaEx2
 
         public double Preco;
 
-        public int Quantidade; 
+        public int Quantidade;
+
+        public Produto()
+        {
+        }
 
         public Produto(string nome, double preco, int quantidade)
         {

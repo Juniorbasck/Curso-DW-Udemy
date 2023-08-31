@@ -26,6 +26,14 @@ namespace Course
 
             Produto p = new Produto(nome, preco);
 
+            Produto p2 = new Produto();
+
+            Produto p3 = new Produto {
+                Nome = "TV", 
+                Preco = 500, 
+                Quantidade = 2
+            };
+
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();
