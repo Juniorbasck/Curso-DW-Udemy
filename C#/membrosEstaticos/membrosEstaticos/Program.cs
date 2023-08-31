@@ -9,7 +9,10 @@ namespace Course
        
         static void Main(string[] args)
         {
-       
+            
+
+            //permite utilizar os métodos de uma classe sem ter que estanciar o objeto
+
             Console.WriteLine("Entre com o valor: ");
             double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
