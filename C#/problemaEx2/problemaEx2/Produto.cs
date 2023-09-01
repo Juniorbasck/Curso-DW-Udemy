@@ -18,20 +18,18 @@ namespace problemaEx2
 
         public Produto()
         {
+            Quantidade = 10;
         }
 
-        public Produto(string nome, double preco, int quantidade)
+        public Produto(string nome, double preco, int quantidade) : this()
         {
             Nome = nome;
             Preco = preco;
-            Quantidade = quantidade;
         }
 
-        public Produto(string nome, double preco) 
+        public Produto(string nome, double preco, int quantidade) : this(nome, preco)
         {
-            Nome= nome;
-            Preco = preco;
-            Quantidade = 5;
+            Quantidade = quantidade;
         }
         public double ValorTotalEmEstoque()
         {
