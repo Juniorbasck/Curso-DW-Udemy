@@ -27,27 +27,31 @@ namespace problemaEx2
             _preco = preco;
             _quantidade = quantidade;
         }
+
+        public string Nome
+        {
+            get { return _nome; }
+            set { if (value != null && value.Length > 1){
+                    _nome = value;
+                }  
+            }
+        }
+
+        public double Preco
+        {
+            get { return _preco; } 
+        }
+      
+        public int Quantidade
+        {
+          get { return _quantidade;  }
+
+        }
+
         public double ValorTotalEmEstoque()
         {
-            return _preco * _quantidade; 
+            return _preco * _quantidade;
         }
-
-        public string Getnome()
-        {
-            return _nome;
-        }
-
-        public string SetNome(string nome)
-        {
-            return _nome = nome;
-        }
-
-        public double GetPreco()
-        {
-            return _preco;
-        }
-
-
         public void AdicionarProdutos(int quantidade)
         {
             _quantidade = quantidade + quantidade;
