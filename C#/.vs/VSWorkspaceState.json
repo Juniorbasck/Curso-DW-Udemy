@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\problemaEx2",
+    "\\problemaEx2\\problemaEx2"
   ],
-  "SelectedNode": "\\concatanacao",
+  "SelectedNode": "\\problemaEx2\\problemaEx2\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

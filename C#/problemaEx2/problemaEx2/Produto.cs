@@ -10,11 +10,11 @@ namespace problemaEx2
     internal class Produto
     {
 
-        public string  Nome { get; private set; }
+        private string  Nome { get; private set; }
 
-        public double Preco { get; private set; }
+        private double Preco { get; private set; }
 
-        public int Quantidade { get; set; }
+        private int Quantidade { get; set; }
 
         public Produto()
         {
