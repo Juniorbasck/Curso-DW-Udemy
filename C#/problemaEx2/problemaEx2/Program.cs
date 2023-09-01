@@ -10,50 +10,14 @@ namespace Course
         static void Main(string[] args)
         {
 
-           
-
-        
-            Console.WriteLine("Entre com os dados do produto: ");
-
-            Console.Write("nome: ");
-
-            string nome = Console.ReadLine();
-
-            Console.Write("Preço: ");
-            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
-           
-
-            Produto p = new Produto(nome, preco);
-
-            Produto p2 = new Produto();
-
-            Produto p3 = new Produto {
-                Nome = "TV", 
-                Preco = 500, 
-                Quantidade = 2
-            };
-
-            Console.WriteLine();
-            Console.WriteLine("Dados do produto: " + p);
-            Console.WriteLine();
-
-            Console.WriteLine("Digite o numero de produto a serem add");
-
-            int qte = int.Parse(Console.ReadLine());
-            p.AdicionarProdutos(qte);
+           Produto p = new Produto("TV",500.00, 10);
 
 
-            Console.WriteLine("Dados Atulizados: " + p);
+            Console.WriteLine(p.Getnome);
 
-            Console.WriteLine("Type the number of products to be delete of stock");
+            p.SetNome("T23");
 
-            qte = int.Parse(Console.ReadLine());
-            p.RemoverProdutos(qte);
-
-
-            Console.WriteLine("Dados Atulizados: " + p);
-       
+            Console.WriteLine(p.GetPreco());
         }
     }
 }

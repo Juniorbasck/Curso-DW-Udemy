@@ -10,48 +10,61 @@ namespace problemaEx2
     internal class Produto
     {
 
-        public string Nome;
+        private string _nome;
 
-        public double Preco;
+        private double _preco;
 
-        public int Quantidade;
+        private int _quantidade;
 
         public Produto()
         {
-            Quantidade = 10;
+
         }
 
         public Produto(string nome, double preco, int quantidade) : this()
         {
-            Nome = nome;
-            Preco = preco;
-        }
-
-        public Produto(string nome, double preco, int quantidade) : this(nome, preco)
-        {
-            Quantidade = quantidade;
+            _nome = nome;
+            _preco = preco;
+            _quantidade = quantidade;
         }
         public double ValorTotalEmEstoque()
         {
-            return Preco * Quantidade; 
+            return _preco * _quantidade; 
         }
+
+        public string Getnome()
+        {
+            return _nome;
+        }
+
+        public string SetNome(string nome)
+        {
+            return _nome = nome;
+        }
+
+        public double GetPreco()
+        {
+            return _preco;
+        }
+
 
         public void AdicionarProdutos(int quantidade)
         {
-            Quantidade = Quantidade + quantidade;
+            _quantidade = quantidade + quantidade;
         }
 
         public void RemoverProdutos(int quantidade)
         {
-            Quantidade -= quantidade;
+            _quantidade -= quantidade;
         }
-
+        
+       
         public override string ToString()
         {
 
-            return Nome + ", $ " + Preco
+            return _nome + ", $ " + _preco
                 + " , "
-                + Quantidade
+                + _quantidade
                 + " unidades, total em estoque: $ " + ValorTotalEmEstoque();
         }
     }
