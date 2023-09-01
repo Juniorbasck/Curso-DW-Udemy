@@ -10,11 +10,11 @@ namespace problemaEx2
     internal class Produto
     {
 
-        private string _nome;
+        public string  Nome { get; private set; }
 
-        private double _preco;
+        public double Preco { get; private set; }
 
-        private int _quantidade;
+        public int Quantidade { get; set; }
 
         public Produto()
         {
@@ -23,52 +23,32 @@ namespace problemaEx2
 
         public Produto(string nome, double preco, int quantidade) : this()
         {
-            _nome = nome;
-            _preco = preco;
-            _quantidade = quantidade;
-        }
-
-        public string Nome
-        {
-            get { return _nome; }
-            set { if (value != null && value.Length > 1){
-                    _nome = value;
-                }  
-            }
-        }
-
-        public double Preco
-        {
-            get { return _preco; } 
-        }
-      
-        public int Quantidade
-        {
-          get { return _quantidade;  }
-
-        }
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
+        } 
 
         public double ValorTotalEmEstoque()
         {
-            return _preco * _quantidade;
+            return Preco * Quantidade;
         }
         public void AdicionarProdutos(int quantidade)
         {
-            _quantidade = quantidade + quantidade;
+            Quantidade = quantidade + quantidade;
         }
 
         public void RemoverProdutos(int quantidade)
         {
-            _quantidade -= quantidade;
+            Quantidade -= quantidade;
         }
         
        
         public override string ToString()
         {
 
-            return _nome + ", $ " + _preco
+            return Nome + ", $ " + Preco
                 + " , "
-                + _quantidade
+                + Quantidade
                 + " unidades, total em estoque: $ " + ValorTotalEmEstoque();
         }
     }
