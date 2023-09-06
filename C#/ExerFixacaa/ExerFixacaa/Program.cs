@@ -33,6 +33,29 @@ namespace ExerFixacaa
             Console.WriteLine();
             Console.WriteLine("Dados da conta: ");
             Console.WriteLine(conta);
+
+            Console.WriteLine();
+
+            Console.Write("Emtre com o valor para deposito: ");
+            double valor = double.Parse(Console.ReadLine());
+
+            conta.Deposito(valor);
+            Console.WriteLine();
+
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(conta); 
+
+            Console.WriteLine();
+
+            Console.Write("Emtre com o valor para saque: ");
+            valor = double.Parse(Console.ReadLine());
+
+            conta.Saque(valor);
+
+            Console.WriteLine();
+
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(conta);
         }
     }
 }

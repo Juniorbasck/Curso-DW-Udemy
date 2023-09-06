@@ -20,10 +20,22 @@ namespace ExerFixacaa
             Titular = titular;
         }
 
-        public ContaBancaria(int numero, string titular, double saldo) : this(numero, titular)
+        public ContaBancaria(int numero, string titular, double depositoInicial) : this(numero, titular)
         {
-            Saldo = saldo;
+            Deposito(depositoInicial);
         }
+
+        public void Deposito(double valor)
+        {
+            Saldo += valor;
+        }
+
+        public void Saque(double valor)
+        {
+            Saldo -= valor;
+            Saldo -= 5.0;
+        }
+
 
         public override string ToString()
         {
