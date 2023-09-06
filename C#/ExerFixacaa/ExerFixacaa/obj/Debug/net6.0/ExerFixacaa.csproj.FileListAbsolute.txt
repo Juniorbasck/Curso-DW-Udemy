@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\bin\Debug\net6.0\ExerFixacaa.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\bin\Debug\net6.0\ExerFixacaa.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\bin\Debug\net6.0\ExerFixacaa.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\bin\Debug\net6.0\ExerFixacaa.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\bin\Debug\net6.0\ExerFixacaa.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\obj\Debug\net6.0\ExerFixacaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\obj\Debug\net6.0\ExerFixacaa.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\obj\Debug\net6.0\ExerFixacaa.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\obj\Debug\net6.0\ExerFixacaa.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\obj\Debug\net6.0\ExerFixacaa.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\obj\Debug\net6.0\refint\ExerFixacaa.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\obj\Debug\net6.0\ExerFixacaa.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\obj\Debug\net6.0\ExerFixacaa.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\ExerFixacaa\ExerFixacaa\obj\Debug\net6.0\ref\ExerFixacaa.dll

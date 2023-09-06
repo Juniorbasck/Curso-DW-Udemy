@@ -30,6 +30,9 @@ namespace ExerFixacaa
                 conta = new ContaBancaria(numero, tiular);
             }
 
+            Console.WriteLine();
+            Console.WriteLine("Dados da conta: ");
+            Console.WriteLine(conta);
         }
     }
 }
