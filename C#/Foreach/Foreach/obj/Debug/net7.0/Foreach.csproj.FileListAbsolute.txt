@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\bin\Debug\net7.0\Foreach.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\bin\Debug\net7.0\Foreach.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\bin\Debug\net7.0\Foreach.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\bin\Debug\net7.0\Foreach.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\bin\Debug\net7.0\Foreach.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\obj\Debug\net7.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\obj\Debug\net7.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\obj\Debug\net7.0\Foreach.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\obj\Debug\net7.0\refint\Foreach.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\obj\Debug\net7.0\Foreach.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\obj\Debug\net7.0\Foreach.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Foreach\Foreach\obj\Debug\net7.0\ref\Foreach.dll

@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\bin\Debug\net7.0\list.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\bin\Debug\net7.0\list.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\bin\Debug\net7.0\list.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\bin\Debug\net7.0\list.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\bin\Debug\net7.0\list.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\obj\Debug\net7.0\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\obj\Debug\net7.0\list.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\obj\Debug\net7.0\list.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\obj\Debug\net7.0\list.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\obj\Debug\net7.0\list.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\obj\Debug\net7.0\refint\list.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\obj\Debug\net7.0\list.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\obj\Debug\net7.0\list.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\list\list\obj\Debug\net7.0\ref\list.dll
