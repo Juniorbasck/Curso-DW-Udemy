@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\bin\Debug\net7.0\Exmatrices.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\bin\Debug\net7.0\Exmatrices.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\bin\Debug\net7.0\Exmatrices.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\bin\Debug\net7.0\Exmatrices.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\bin\Debug\net7.0\Exmatrices.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\obj\Debug\net7.0\Exmatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\obj\Debug\net7.0\Exmatrices.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\obj\Debug\net7.0\Exmatrices.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\obj\Debug\net7.0\Exmatrices.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\obj\Debug\net7.0\Exmatrices.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\obj\Debug\net7.0\refint\Exmatrices.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\obj\Debug\net7.0\Exmatrices.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\obj\Debug\net7.0\Exmatrices.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Exmatrices\Exmatrices\obj\Debug\net7.0\ref\Exmatrices.dll
