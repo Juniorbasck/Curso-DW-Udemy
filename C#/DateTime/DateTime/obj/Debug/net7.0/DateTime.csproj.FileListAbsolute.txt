@@ -1,0 +1,4 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\DateTime\DateTime\obj\Debug\net7.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\DateTime\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\DateTime\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\DateTime\DateTime\obj\Debug\net7.0\DateTime.csproj.CoreCompileInputs.cache

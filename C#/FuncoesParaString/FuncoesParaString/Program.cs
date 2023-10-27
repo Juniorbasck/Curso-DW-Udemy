@@ -42,6 +42,7 @@ namespace FuncoesParaString
 
             bool b2 = String.IsNullOrWhiteSpace(original);
 
+
             Console.WriteLine("Original: -" + original + "-");
 
             Console.WriteLine("ToUpper: -" + s1 + "-");
