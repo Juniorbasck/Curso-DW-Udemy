@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\bin\Debug\net7.0\FuncoesParaString.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\bin\Debug\net7.0\FuncoesParaString.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\bin\Debug\net7.0\FuncoesParaString.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\bin\Debug\net7.0\FuncoesParaString.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\bin\Debug\net7.0\FuncoesParaString.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\obj\Debug\net7.0\FuncoesParaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\obj\Debug\net7.0\FuncoesParaString.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\obj\Debug\net7.0\FuncoesParaString.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\obj\Debug\net7.0\FuncoesParaString.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\obj\Debug\net7.0\FuncoesParaString.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\obj\Debug\net7.0\refint\FuncoesParaString.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\obj\Debug\net7.0\FuncoesParaString.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\obj\Debug\net7.0\FuncoesParaString.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\FuncoesParaString\FuncoesParaString\obj\Debug\net7.0\ref\FuncoesParaString.dll
