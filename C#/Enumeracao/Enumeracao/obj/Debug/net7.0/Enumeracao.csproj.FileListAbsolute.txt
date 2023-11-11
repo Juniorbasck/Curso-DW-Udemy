@@ -1,0 +1,14 @@
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.exe
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.deps.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.runtimeconfig.json
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\bin\Debug\net7.0\Enumeracao.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.AssemblyInfoInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.AssemblyInfo.cs
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\obj\Debug\net7.0\refint\Enumeracao.dll
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.pdb
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\obj\Debug\net7.0\Enumeracao.genruntimeconfig.cache
+C:\Users\AdilsonAlvesNevesJun\Desktop\Arquivos\Estudos\Curso-DW-Udemy\C#\Enumeracao\Enumeracao\obj\Debug\net7.0\ref\Enumeracao.dll
