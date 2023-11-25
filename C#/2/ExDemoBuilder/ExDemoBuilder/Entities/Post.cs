@@ -51,7 +51,7 @@ namespace ExDemoBuilder.Entities
             sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
             sb.AppendLine(Content);
             sb.AppendLine("Comments:");
-            foreach (Commennt c in Comments)
+            foreach (Commennt c in Commennts)
             {
                 sb.AppendLine(c.Text);
             }
