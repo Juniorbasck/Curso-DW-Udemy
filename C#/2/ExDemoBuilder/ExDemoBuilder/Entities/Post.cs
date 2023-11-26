@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace ExDemoBuilder.Entities
 {
@@ -21,7 +22,6 @@ namespace ExDemoBuilder.Entities
 
         public Post() 
         {
-        
         }
 
         public Post(DateTime moment, string title, string content, int likes, List<Commennt> commennts)
@@ -40,6 +40,22 @@ namespace ExDemoBuilder.Entities
         public void RemoveComment(Commennt comment)
         {
             Commennts.Remove(comment);
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(Title);
+            sb.Append(Likes);
+            sb.Append(" Likes - ");
+            sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine(Content);
+            sb.AppendLine("Comments:");
+            foreach (Commennt c in Comments)
+            {
+                sb.AppendLine(c.Text);
+            }
+            return sb.ToString();
         }
     }
 }
