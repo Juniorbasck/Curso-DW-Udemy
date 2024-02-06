@@ -25,5 +25,10 @@ namespace Heranca.Entities
         {
             Balance += Balance * InteresRate;
         }
+
+        public override void Withdraw(double  amount)
+        {
+            Balance -= amount;
+        }
     }
 }

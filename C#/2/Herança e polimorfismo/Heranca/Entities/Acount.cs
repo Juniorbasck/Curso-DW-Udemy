@@ -25,9 +25,9 @@ namespace Heranca.Entities
             Balance = balance;
         }
 
-        public void Withdraw(double amount) 
+        public virtual void Withdraw(double amount) 
         {
-            Balance -= amount;
+            Balance -= amount + 5.0;
         }
 
         public void deposito(double amount)
