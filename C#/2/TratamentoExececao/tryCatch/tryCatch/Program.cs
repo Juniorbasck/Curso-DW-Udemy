@@ -16,9 +16,13 @@ class Trycatch{
         {
             Console.WriteLine("Não é possivel dividir por zero");
         }
-        catch(FormatException e)
+        catch (FormatException e)
         {
             Console.WriteLine("Formart error" + e.Message);
+        }
+        finally
+        {
+            Console.WriteLine("ação realizada");
         }
     }
 }
