@@ -1,0 +1,15 @@
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/bin/Debug/net8.0/tryCatch
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/bin/Debug/net8.0/tryCatch.deps.json
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/bin/Debug/net8.0/tryCatch.runtimeconfig.json
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/bin/Debug/net8.0/tryCatch.dll
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/bin/Debug/net8.0/tryCatch.pdb
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/obj/Debug/net8.0/tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/obj/Debug/net8.0/tryCatch.AssemblyInfoInputs.cache
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/obj/Debug/net8.0/tryCatch.AssemblyInfo.cs
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/obj/Debug/net8.0/tryCatch.csproj.CoreCompileInputs.cache
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/obj/Debug/net8.0/tryCatch.sourcelink.json
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/obj/Debug/net8.0/tryCatch.dll
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/obj/Debug/net8.0/refint/tryCatch.dll
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/obj/Debug/net8.0/tryCatch.pdb
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/obj/Debug/net8.0/tryCatch.genruntimeconfig.cache
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/tryCatch/tryCatch/obj/Debug/net8.0/ref/tryCatch.dll

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5325d74-fe4d-4072-8da9-ff955bac6066" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../1/Foreach/.idea/.idea.Foreach/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/Foreach/.idea/.idea.Foreach/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/Foreach/.idea/.idea.Foreach/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/bin/Debug/net7.0/Foreach.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/bin/Debug/net7.0/Foreach.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/bin/Debug/net7.0/Foreach.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/bin/Debug/net7.0/Foreach.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/Foreach.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/ref/Foreach.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/ref/Foreach.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/refint/Foreach.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Debug/net7.0/refint/Foreach.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Foreach.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Foreach.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Foreach.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/Foreach.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../1/Foreach/Foreach/obj/project.nuget.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2d17xY8qLj60RLYeneSErQIdEOk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/home/adilson/.config/JetBrains/Rider2023.3/resharper-host/DecompilerCache",
+      "/home/adilson/.config/JetBrains/Rider2023.3/resharper-host/SourcesCache",
+      "/home/adilson/.local/share/Symbols/src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5325d74-fe4d-4072-8da9-ff955bac6066" name="Changes" comment="" />
+      <created>1709163979308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709163979308</updated>
+      <workItem from="1709163982871" duration="789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

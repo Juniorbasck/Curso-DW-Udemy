@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EO9cgjfCZxFDq7QiEriy+As0ybrG8bU2pJ++BM770YuFf8vDm0pxtnPV3yHiFFbTEcLwQpeamat299R6To6HRQ==",
+  "dgSpecHash": "yuX5w9MLm29Mt/wEgpVYJI8jjFKg/Te0PcXkX7moK90lj+guVmLK/2cLf08ev4tLebnud4N+oudECeg7S3QcZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AdilsonAlvesNevesJun\\Desktop\\Arquivos\\Estudos\\Foreach\\Foreach\\Foreach.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/1/Foreach/Foreach/Foreach.csproj",
+  "expectedPackageFiles": [
+    "/home/adilson/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/home/adilson/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/home/adilson/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.16/microsoft.netcore.app.host.linux-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
