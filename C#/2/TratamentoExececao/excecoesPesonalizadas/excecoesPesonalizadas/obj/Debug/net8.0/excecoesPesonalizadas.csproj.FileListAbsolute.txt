@@ -1,0 +1,15 @@
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/bin/Debug/net8.0/excecoesPesonalizadas
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/bin/Debug/net8.0/excecoesPesonalizadas.deps.json
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/bin/Debug/net8.0/excecoesPesonalizadas.runtimeconfig.json
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/bin/Debug/net8.0/excecoesPesonalizadas.dll
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/bin/Debug/net8.0/excecoesPesonalizadas.pdb
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/obj/Debug/net8.0/excecoesPesonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/obj/Debug/net8.0/excecoesPesonalizadas.AssemblyInfoInputs.cache
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/obj/Debug/net8.0/excecoesPesonalizadas.AssemblyInfo.cs
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/obj/Debug/net8.0/excecoesPesonalizadas.csproj.CoreCompileInputs.cache
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/obj/Debug/net8.0/excecoesPesonalizadas.sourcelink.json
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/obj/Debug/net8.0/excecoesPesonalizadas.dll
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/obj/Debug/net8.0/refint/excecoesPesonalizadas.dll
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/obj/Debug/net8.0/excecoesPesonalizadas.pdb
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/obj/Debug/net8.0/excecoesPesonalizadas.genruntimeconfig.cache
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/2/TratamentoExececao/excecoesPesonalizadas/excecoesPesonalizadas/obj/Debug/net8.0/ref/excecoesPesonalizadas.dll
