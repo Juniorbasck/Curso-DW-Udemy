@@ -23,6 +23,12 @@ public class Reservation
         return (int)durantion.TotalDays;
     }
 
+    public void updateDates(DateTime checkIn, DateTime checkOut)
+    {
+        checkIn = checkIn;
+        checkOut = checkOut;
+    }
+
     public override string ToString()
     {
         return "Room"
