@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 using System.Runtime.InteropServices.JavaScript;
 using excecoesPesonalizadas.Entities;
 
@@ -32,19 +33,14 @@ public class Program
             Console.Write("Checkout date (dd/MM/YYYY): ");
             checkout = DateTime.Parse(Console.ReadLine());
 
-            DateTime now = DateTime.Now;
-            if (checkin < now || checkout < now)
+            string error = reservation.updateDates(checkin, checkout);
+
+            if (error != null)
             {
-                Console.WriteLine("can´t be update");
-            }
-            else if (checkout <= checkin)
-            {
-                Console.WriteLine("Erro in reservation, date is wrong");
+                Console.WriteLine("Error in reservation: " + error);
             }
             else
             {
-                reservation.updateDates(checkin, checkout);
-                
                 Console.WriteLine("Reservation:  " + reservation);
             }
         }
