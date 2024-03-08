@@ -1,6 +1,9 @@
 namespace excecoesPesonalizadas.Entities.Exceptions;
 
-public class DomainException
+public class DomainException : ApplicationException
 {
-    
+    public DomainException(string message) : base(message)
+    {
+        
+    }
 }

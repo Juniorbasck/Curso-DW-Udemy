@@ -1,4 +1,5 @@
 using System.Runtime.InteropServices.JavaScript;
+using excecoesPesonalizadas.Entities.Exceptions;
 
 namespace excecoesPesonalizadas.Entities;
 
@@ -12,6 +13,11 @@ public class Reservation
 
     public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
     {
+        if (checkIn <= checkIn)
+        {
+            throw new DomainException("Erro in reservation, date is wrong");
+        }
+        
         RoomNumber = roomNumber;
         CheckIn = checkIn;
         CheckOut = checkOut;
@@ -23,21 +29,19 @@ public class Reservation
         return (int)durantion.TotalDays;
     }
 
-    public string updateDates(DateTime checkIn, DateTime checkOut)
+    public void updateDates(DateTime checkIn, DateTime checkOut)
     {   
         DateTime now = DateTime.Now;
         if (checkIn < now || checkOut < now)
         {
-            return "can´t be update";
+            throw new DomainException("can´t be update");
         }
         if (checkIn <= checkIn)
         {
-            return "Erro in reservation, date is wrong";
+            throw new DomainException("Erro in reservation, date is wrong");
         }
         checkIn = checkIn;
         checkOut = checkOut;
-
-        return null;
     }
 
     public override string ToString()
