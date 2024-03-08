@@ -19,7 +19,6 @@ public class Program
             Console.Write("Checkout date (dd/MM/YYYY): ");
             DateTime checkout = DateTime.Parse(Console.ReadLine());
 
-
             Reservation reservation = new Reservation(number, checkin, checkout);
             Console.WriteLine("Reservartion: " + reservation);
 
