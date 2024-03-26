@@ -1,0 +1,15 @@
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/bin/Debug/net8.0/File_fileInfo
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/bin/Debug/net8.0/File_fileInfo.deps.json
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/bin/Debug/net8.0/File_fileInfo.runtimeconfig.json
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/bin/Debug/net8.0/File_fileInfo.dll
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/bin/Debug/net8.0/File_fileInfo.pdb
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/obj/Debug/net8.0/File_fileInfo.GeneratedMSBuildEditorConfig.editorconfig
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/obj/Debug/net8.0/File_fileInfo.AssemblyInfoInputs.cache
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/obj/Debug/net8.0/File_fileInfo.AssemblyInfo.cs
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/obj/Debug/net8.0/File_fileInfo.csproj.CoreCompileInputs.cache
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/obj/Debug/net8.0/File_fileInfo.sourcelink.json
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/obj/Debug/net8.0/File_fileInfo.dll
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/obj/Debug/net8.0/refint/File_fileInfo.dll
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/obj/Debug/net8.0/File_fileInfo.pdb
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/obj/Debug/net8.0/File_fileInfo.genruntimeconfig.cache
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/obj/Debug/net8.0/ref/File_fileInfo.dll
