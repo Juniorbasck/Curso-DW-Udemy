@@ -1,0 +1,15 @@
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/obj/Debug/net8.0/FileStream_StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/obj/Debug/net8.0/FileStream_StreamReader.AssemblyInfoInputs.cache
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/obj/Debug/net8.0/FileStream_StreamReader.AssemblyInfo.cs
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/obj/Debug/net8.0/FileStream_StreamReader.csproj.CoreCompileInputs.cache
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/obj/Debug/net8.0/FileStream_StreamReader.sourcelink.json
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/bin/Debug/net8.0/FileStream_StreamReader
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/bin/Debug/net8.0/FileStream_StreamReader.deps.json
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/bin/Debug/net8.0/FileStream_StreamReader.runtimeconfig.json
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/bin/Debug/net8.0/FileStream_StreamReader.dll
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/bin/Debug/net8.0/FileStream_StreamReader.pdb
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/obj/Debug/net8.0/FileStream_StreamReader.dll
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/obj/Debug/net8.0/refint/FileStream_StreamReader.dll
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/obj/Debug/net8.0/FileStream_StreamReader.pdb
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/obj/Debug/net8.0/FileStream_StreamReader.genruntimeconfig.cache
+/home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/FileStream_StreamReader/FileStream_StreamReader/obj/Debug/net8.0/ref/FileStream_StreamReader.dll

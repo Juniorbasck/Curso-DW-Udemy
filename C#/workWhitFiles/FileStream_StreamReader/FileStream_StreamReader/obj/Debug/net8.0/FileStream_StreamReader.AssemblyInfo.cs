@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileStream_StreamReader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd0614f7dfceaaaac980c459d7bee6cc706dcbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6159f3d55319bb2f4d8cc043304211f005d4eea9")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileStream_StreamReader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileStream_StreamReader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
