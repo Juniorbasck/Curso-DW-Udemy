@@ -6,14 +6,14 @@ class  program
 {
     static void Main(string[] args)
     {
-        string sourcePath = "/home/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/Usesfiles/teste.txt";
+        string sourcePath = "/home/junior/Documentos/file1";
         
-        string targetpath = "~/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/Usesfiles/teste2.txt";
+        string targetPath = "/home/junior/Documentos/file2";
 
         try
         {
             FileInfo fileInfo = new FileInfo(sourcePath);
-            fileInfo.CopyTo(targetpath);
+            fileInfo.CopyTo(targetPath);
         }
         catch(IOException e)
         {

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = File_fileInfo
-build_property.ProjectDir = /home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/
+build_property.ProjectDir = /home/junior/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/File_fileInfo/File_fileInfo/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
