@@ -14,6 +14,11 @@ class  program
         {
             FileInfo fileInfo = new FileInfo(sourcePath);
             fileInfo.CopyTo(targetPath);
+            string[] lines = File.ReadAllLines(sourcePath);
+            foreach (string line in lines)
+            {
+                Console.WriteLine(lines);
+            }
         }
         catch(IOException e)
         {
@@ -22,3 +27,4 @@ class  program
         }
     }
 }
+ 
