@@ -1,0 +1,15 @@
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/bin/Debug/net8.0/blocoUsing
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/bin/Debug/net8.0/blocoUsing.deps.json
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/bin/Debug/net8.0/blocoUsing.runtimeconfig.json
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/bin/Debug/net8.0/blocoUsing.dll
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/bin/Debug/net8.0/blocoUsing.pdb
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/obj/Debug/net8.0/blocoUsing.GeneratedMSBuildEditorConfig.editorconfig
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/obj/Debug/net8.0/blocoUsing.AssemblyInfoInputs.cache
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/obj/Debug/net8.0/blocoUsing.AssemblyInfo.cs
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/obj/Debug/net8.0/blocoUsing.csproj.CoreCompileInputs.cache
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/obj/Debug/net8.0/blocoUsing.sourcelink.json
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/obj/Debug/net8.0/blocoUsing.dll
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/obj/Debug/net8.0/refint/blocoUsing.dll
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/obj/Debug/net8.0/blocoUsing.pdb
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/obj/Debug/net8.0/blocoUsing.genruntimeconfig.cache
+/home/adilson/Adilson/Pessoal/Estudos/Curso-DW-Udemy/C#/workWhitFiles/blocoUsing/blocoUsing/obj/Debug/net8.0/ref/blocoUsing.dll
